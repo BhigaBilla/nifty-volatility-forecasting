@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+yfinance>=0.2.54
+arch>=7.0
+matplotlib>=3.8
+pytest>=8.0
+xgboost>=2.1
+torch>=2.4
